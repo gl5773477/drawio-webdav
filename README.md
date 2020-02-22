@@ -25,7 +25,7 @@
 
 ```bash
 git clone https://github.com/othorizon/drawio-webdav.git
-cd drawio-minio
+cd drawio-webdav
 npm install
 npm start
 ```
